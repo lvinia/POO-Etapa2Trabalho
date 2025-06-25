@@ -1,0 +1,7192 @@
+fileFormatVersion: 2
+guid: 9c9c2d4216e4b3b468173b7695dcd43d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7203045695051700601
+    second: Retro Impact Effect E_0
+  - first:
+      213: -1217786541685152837
+    second: Retro Impact Effect E_1
+  - first:
+      213: -7954447102610950724
+    second: Retro Impact Effect E_2
+  - first:
+      213: -1602493664575316980
+    second: Retro Impact Effect E_3
+  - first:
+      213: -6901656210001922079
+    second: Retro Impact Effect E_4
+  - first:
+      213: 4098096768839841986
+    second: Retro Impact Effect E_5
+  - first:
+      213: -6886892129830427575
+    second: Retro Impact Effect E_6
+  - first:
+      213: 5650306945067368477
+    second: Retro Impact Effect E_7
+  - first:
+      213: 7899175774669424982
+    second: Retro Impact Effect E_8
+  - first:
+      213: -8636975197193134132
+    second: Retro Impact Effect E_9
+  - first:
+      213: -1494506394480477652
+    second: Retro Impact Effect E_10
+  - first:
+      213: 4589927166825525970
+    second: Retro Impact Effect E_11
+  - first:
+      213: 2005294916923072717
+    second: Retro Impact Effect E_12
+  - first:
+      213: -7570059967879595294
+    second: Retro Impact Effect E_13
+  - first:
+      213: -7035031035431197337
+    second: Retro Impact Effect E_14
+  - first:
+      213: 8846053721140682128
+    second: Retro Impact Effect E_15
+  - first:
+      213: 769873924155365498
+    second: Retro Impact Effect E_16
+  - first:
+      213: 6015059325993060665
+    second: Retro Impact Effect E_17
+  - first:
+      213: 4340881532470014240
+    second: Retro Impact Effect E_18
+  - first:
+      213: 5515691212706720248
+    second: Retro Impact Effect E_19
+  - first:
+      213: -5661440088586520331
+    second: Retro Impact Effect E_20
+  - first:
+      213: 8051020104221671666
+    second: Retro Impact Effect E_21
+  - first:
+      213: 9095391395965848031
+    second: Retro Impact Effect E_22
+  - first:
+      213: 3973463761193637172
+    second: Retro Impact Effect E_23
+  - first:
+      213: -5781012240869751649
+    second: Retro Impact Effect E_24
+  - first:
+      213: -2498213247245637349
+    second: Retro Impact Effect E_25
+  - first:
+      213: 879368049601327309
+    second: Retro Impact Effect E_26
+  - first:
+      213: -7040129888028408006
+    second: Retro Impact Effect E_27
+  - first:
+      213: -2299993033086490157
+    second: Retro Impact Effect E_28
+  - first:
+      213: 1856147249381750114
+    second: Retro Impact Effect E_29
+  - first:
+      213: -7130926819264444533
+    second: Retro Impact Effect E_30
+  - first:
+      213: 6637814314285017759
+    second: Retro Impact Effect E_31
+  - first:
+      213: -5764970665173304490
+    second: Retro Impact Effect E_32
+  - first:
+      213: 8748475660197050033
+    second: Retro Impact Effect E_33
+  - first:
+      213: -8626580536086957277
+    second: Retro Impact Effect E_34
+  - first:
+      213: -5710573075585043235
+    second: Retro Impact Effect E_35
+  - first:
+      213: -6425859223060348194
+    second: Retro Impact Effect E_36
+  - first:
+      213: 8600633053438372933
+    second: Retro Impact Effect E_37
+  - first:
+      213: 6193740705557417198
+    second: Retro Impact Effect E_38
+  - first:
+      213: 8396588660291984158
+    second: Retro Impact Effect E_39
+  - first:
+      213: -6992985362153062984
+    second: Retro Impact Effect E_40
+  - first:
+      213: 4665031664391422694
+    second: Retro Impact Effect E_41
+  - first:
+      213: -1354473032256656690
+    second: Retro Impact Effect E_42
+  - first:
+      213: 8597045361932182909
+    second: Retro Impact Effect E_43
+  - first:
+      213: 933636177612927486
+    second: Retro Impact Effect E_44
+  - first:
+      213: 2085401016286085268
+    second: Retro Impact Effect E_45
+  - first:
+      213: -3329617554575936794
+    second: Retro Impact Effect E_46
+  - first:
+      213: 5531851487472291149
+    second: Retro Impact Effect E_47
+  - first:
+      213: 4556539020954775145
+    second: Retro Impact Effect E_48
+  - first:
+      213: -8371277257974837568
+    second: Retro Impact Effect E_49
+  - first:
+      213: 3479104521510006050
+    second: Retro Impact Effect E_50
+  - first:
+      213: 5219554822334500200
+    second: Retro Impact Effect E_51
+  - first:
+      213: 8876981977491997470
+    second: Retro Impact Effect E_52
+  - first:
+      213: -8419941417982246438
+    second: Retro Impact Effect E_53
+  - first:
+      213: 2613204863809205848
+    second: Retro Impact Effect E_54
+  - first:
+      213: -4348116277091581574
+    second: Retro Impact Effect E_55
+  - first:
+      213: 4545406097287173336
+    second: Retro Impact Effect E_56
+  - first:
+      213: -3323467408256762992
+    second: Retro Impact Effect E_57
+  - first:
+      213: -5538506905786961411
+    second: Retro Impact Effect E_58
+  - first:
+      213: -8168829908298153437
+    second: Retro Impact Effect E_59
+  - first:
+      213: -3220120131823627461
+    second: Retro Impact Effect E_60
+  - first:
+      213: -6971730232093731964
+    second: Retro Impact Effect E_61
+  - first:
+      213: 7006456946646342879
+    second: Retro Impact Effect E_62
+  - first:
+      213: 4160732920103747723
+    second: Retro Impact Effect E_63
+  - first:
+      213: 7992279974073579817
+    second: Retro Impact Effect E_64
+  - first:
+      213: -7344474681958348750
+    second: Retro Impact Effect E_65
+  - first:
+      213: -399783778433413576
+    second: Retro Impact Effect E_66
+  - first:
+      213: 2965836501739933798
+    second: Retro Impact Effect E_67
+  - first:
+      213: 6142658275379265560
+    second: Retro Impact Effect E_68
+  - first:
+      213: 6973088383345619497
+    second: Retro Impact Effect E_69
+  - first:
+      213: -3070645991960106628
+    second: Retro Impact Effect E_70
+  - first:
+      213: 1350834938272480784
+    second: Retro Impact Effect E_71
+  - first:
+      213: -7502032726009440381
+    second: Retro Impact Effect E_72
+  - first:
+      213: -8520230165217432357
+    second: Retro Impact Effect E_73
+  - first:
+      213: 6798281516159380975
+    second: Retro Impact Effect E_74
+  - first:
+      213: 3286996025875652080
+    second: Retro Impact Effect E_75
+  - first:
+      213: 3033179183180753233
+    second: Retro Impact Effect E_76
+  - first:
+      213: 2940017190686367712
+    second: Retro Impact Effect E_77
+  - first:
+      213: -3373537762217450227
+    second: Retro Impact Effect E_78
+  - first:
+      213: -6820096979500101021
+    second: Retro Impact Effect E_79
+  - first:
+      213: 1333474899599791249
+    second: Retro Impact Effect E_80
+  - first:
+      213: -2279118866570244780
+    second: Retro Impact Effect E_81
+  - first:
+      213: 4999267252712655915
+    second: Retro Impact Effect E_82
+  - first:
+      213: 130815673542338566
+    second: Retro Impact Effect E_83
+  - first:
+      213: 3886154120541008287
+    second: Retro Impact Effect E_84
+  - first:
+      213: -8810899715063748683
+    second: Retro Impact Effect E_85
+  - first:
+      213: 6269499073782983168
+    second: Retro Impact Effect E_86
+  - first:
+      213: -3913385523792285838
+    second: Retro Impact Effect E_87
+  - first:
+      213: -310147080663907942
+    second: Retro Impact Effect E_88
+  - first:
+      213: 964155637398632043
+    second: Retro Impact Effect E_89
+  - first:
+      213: 3365149571485680324
+    second: Retro Impact Effect E_90
+  - first:
+      213: -8492288022286977335
+    second: Retro Impact Effect E_91
+  - first:
+      213: 2978532542888241017
+    second: Retro Impact Effect E_92
+  - first:
+      213: 664418159257943435
+    second: Retro Impact Effect E_93
+  - first:
+      213: 5536253063629644886
+    second: Retro Impact Effect E_94
+  - first:
+      213: 2728266913534325376
+    second: Retro Impact Effect E_95
+  - first:
+      213: 4603624006663170887
+    second: Retro Impact Effect E_96
+  - first:
+      213: 4551040163930756507
+    second: Retro Impact Effect E_97
+  - first:
+      213: 8803876625982838941
+    second: Retro Impact Effect E_98
+  - first:
+      213: 2469988555888868971
+    second: Retro Impact Effect E_99
+  - first:
+      213: -646838217452501414
+    second: Retro Impact Effect E_100
+  - first:
+      213: 6517345422519283535
+    second: Retro Impact Effect E_101
+  - first:
+      213: 6670738290610131044
+    second: Retro Impact Effect E_102
+  - first:
+      213: 472581593365419193
+    second: Retro Impact Effect E_103
+  - first:
+      213: 7571980414264896754
+    second: Retro Impact Effect E_104
+  - first:
+      213: -9095683876611313314
+    second: Retro Impact Effect E_105
+  - first:
+      213: 5897737487035479882
+    second: Retro Impact Effect E_106
+  - first:
+      213: -5221088796465906361
+    second: Retro Impact Effect E_107
+  - first:
+      213: 3909734799914969235
+    second: Retro Impact Effect E_108
+  - first:
+      213: -3784577866131918797
+    second: Retro Impact Effect E_109
+  - first:
+      213: -7031434765310125235
+    second: Retro Impact Effect E_110
+  - first:
+      213: -3222908832911385166
+    second: Retro Impact Effect E_111
+  - first:
+      213: -4709453081577408679
+    second: Retro Impact Effect E_112
+  - first:
+      213: -4138102869080290731
+    second: Retro Impact Effect E_113
+  - first:
+      213: -6173737900720053907
+    second: Retro Impact Effect E_114
+  - first:
+      213: 846815170741096304
+    second: Retro Impact Effect E_115
+  - first:
+      213: -530137775276792370
+    second: Retro Impact Effect E_116
+  - first:
+      213: 7049694440194640988
+    second: Retro Impact Effect E_117
+  - first:
+      213: -4950011921979228444
+    second: Retro Impact Effect E_118
+  - first:
+      213: 2307490044998890211
+    second: Retro Impact Effect E_119
+  - first:
+      213: -1349192816680745513
+    second: Retro Impact Effect E_120
+  - first:
+      213: -4795643297475168192
+    second: Retro Impact Effect E_121
+  - first:
+      213: 3866937074832323191
+    second: Retro Impact Effect E_122
+  - first:
+      213: 6912544817256843252
+    second: Retro Impact Effect E_123
+  - first:
+      213: -2048657443213728951
+    second: Retro Impact Effect E_124
+  - first:
+      213: 6403915920025468162
+    second: Retro Impact Effect E_125
+  - first:
+      213: 6983798374290442797
+    second: Retro Impact Effect E_126
+  - first:
+      213: -6194614586196175946
+    second: Retro Impact Effect E_127
+  - first:
+      213: 1300762252419470872
+    second: Retro Impact Effect E_128
+  - first:
+      213: 9183669874342656344
+    second: Retro Impact Effect E_129
+  - first:
+      213: 3701068903692789065
+    second: Retro Impact Effect E_130
+  - first:
+      213: -8048043530781920117
+    second: Retro Impact Effect E_131
+  - first:
+      213: -1830693766008418015
+    second: Retro Impact Effect E_132
+  - first:
+      213: 2127185769768831598
+    second: Retro Impact Effect E_133
+  - first:
+      213: 8397606577994974019
+    second: Retro Impact Effect E_134
+  - first:
+      213: 6496389381491890116
+    second: Retro Impact Effect E_135
+  - first:
+      213: -3250522963199018245
+    second: Retro Impact Effect E_136
+  - first:
+      213: 8358991179278318815
+    second: Retro Impact Effect E_137
+  - first:
+      213: 6828889049275508502
+    second: Retro Impact Effect E_138
+  - first:
+      213: -1153939809399487232
+    second: Retro Impact Effect E_139
+  - first:
+      213: 6212675051060482460
+    second: Retro Impact Effect E_140
+  - first:
+      213: 5350745615047309849
+    second: Retro Impact Effect E_141
+  - first:
+      213: -8993284738316083403
+    second: Retro Impact Effect E_142
+  - first:
+      213: 3000943610255097827
+    second: Retro Impact Effect E_143
+  - first:
+      213: -8754659819976629612
+    second: Retro Impact Effect E_144
+  - first:
+      213: 3542808617026776163
+    second: Retro Impact Effect E_145
+  - first:
+      213: -974553693814932340
+    second: Retro Impact Effect E_146
+  - first:
+      213: 3113410662429401195
+    second: Retro Impact Effect E_147
+  - first:
+      213: -2126048570033951097
+    second: Retro Impact Effect E_148
+  - first:
+      213: -1293697312625621995
+    second: Retro Impact Effect E_149
+  - first:
+      213: 2788749385340626875
+    second: Retro Impact Effect E_150
+  - first:
+      213: 7864718725232919467
+    second: Retro Impact Effect E_151
+  - first:
+      213: 2519688399545000044
+    second: Retro Impact Effect E_152
+  - first:
+      213: -2419304236870358634
+    second: Retro Impact Effect E_153
+  - first:
+      213: 1990361548076794872
+    second: Retro Impact Effect E_154
+  - first:
+      213: 4011461837763601637
+    second: Retro Impact Effect E_155
+  - first:
+      213: 4987264996632348073
+    second: Retro Impact Effect E_156
+  - first:
+      213: -6531625086587633734
+    second: Retro Impact Effect E_157
+  - first:
+      213: -1809469043636733435
+    second: Retro Impact Effect E_158
+  - first:
+      213: -1115651216679314743
+    second: Retro Impact Effect E_159
+  - first:
+      213: -5863515487750820529
+    second: Retro Impact Effect E_160
+  - first:
+      213: -1330190788684897942
+    second: Retro Impact Effect E_161
+  - first:
+      213: 3094226395172315848
+    second: Retro Impact Effect E_162
+  - first:
+      213: 2779223661202171110
+    second: Retro Impact Effect E_163
+  - first:
+      213: -3076403028061486727
+    second: Retro Impact Effect E_164
+  - first:
+      213: 905599960763264223
+    second: Retro Impact Effect E_165
+  - first:
+      213: -4255489476433039427
+    second: Retro Impact Effect E_166
+  - first:
+      213: 8809882749315512102
+    second: Retro Impact Effect E_167
+  - first:
+      213: 4468929330455888116
+    second: Retro Impact Effect E_168
+  - first:
+      213: 1615855651894483146
+    second: Retro Impact Effect E_169
+  - first:
+      213: -8190481834221671192
+    second: Retro Impact Effect E_170
+  - first:
+      213: -1792033682616193893
+    second: Retro Impact Effect E_171
+  - first:
+      213: -3241017503284636419
+    second: Retro Impact Effect E_172
+  - first:
+      213: 3469155491797194901
+    second: Retro Impact Effect E_173
+  - first:
+      213: 5267208182714368750
+    second: Retro Impact Effect E_174
+  - first:
+      213: -6999285372317710314
+    second: Retro Impact Effect E_175
+  - first:
+      213: 6999292582275353100
+    second: Retro Impact Effect E_176
+  - first:
+      213: 50834363688628986
+    second: Retro Impact Effect E_177
+  - first:
+      213: 2131635578861537368
+    second: Retro Impact Effect E_178
+  - first:
+      213: -4816306216746641356
+    second: Retro Impact Effect E_179
+  - first:
+      213: -9183301198024482871
+    second: Retro Impact Effect E_180
+  - first:
+      213: 280858031387783599
+    second: Retro Impact Effect E_181
+  - first:
+      213: 7679267564886055819
+    second: Retro Impact Effect E_182
+  - first:
+      213: -558778472884816095
+    second: Retro Impact Effect E_183
+  - first:
+      213: -6329015033741335377
+    second: Retro Impact Effect E_184
+  - first:
+      213: 6470127977858086276
+    second: Retro Impact Effect E_185
+  - first:
+      213: 6997794792137423447
+    second: Retro Impact Effect E_186
+  - first:
+      213: 3912305410296251491
+    second: Retro Impact Effect E_187
+  - first:
+      213: -7643210102512880549
+    second: Retro Impact Effect E_188
+  - first:
+      213: 6025422099595790596
+    second: Retro Impact Effect E_189
+  - first:
+      213: -2998504505190901468
+    second: Retro Impact Effect E_190
+  - first:
+      213: 7355012639664203810
+    second: Retro Impact Effect E_191
+  - first:
+      213: -1935672028237895424
+    second: Retro Impact Effect E_192
+  - first:
+      213: -1851082120887185169
+    second: Retro Impact Effect E_193
+  - first:
+      213: -5405689763364426288
+    second: Retro Impact Effect E_194
+  - first:
+      213: 5495692256360307929
+    second: Retro Impact Effect E_195
+  - first:
+      213: -6501618312480565041
+    second: Retro Impact Effect E_196
+  - first:
+      213: 4520427414997838466
+    second: Retro Impact Effect E_197
+  - first:
+      213: -8002303743457400954
+    second: Retro Impact Effect E_198
+  - first:
+      213: 4821535638395633902
+    second: Retro Impact Effect E_199
+  - first:
+      213: -5090611159207802027
+    second: Retro Impact Effect E_200
+  - first:
+      213: -1842521073147298287
+    second: Retro Impact Effect E_201
+  - first:
+      213: -1939140970801766322
+    second: Retro Impact Effect E_202
+  - first:
+      213: 3231384480134523568
+    second: Retro Impact Effect E_203
+  - first:
+      213: 3416536460476482639
+    second: Retro Impact Effect E_204
+  - first:
+      213: -3391267753010248052
+    second: Retro Impact Effect E_205
+  - first:
+      213: -8194237698575527971
+    second: Retro Impact Effect E_206
+  - first:
+      213: 5118516133374247181
+    second: Retro Impact Effect E_207
+  - first:
+      213: 2638400474837201260
+    second: Retro Impact Effect E_208
+  - first:
+      213: 1712519803715385244
+    second: Retro Impact Effect E_209
+  - first:
+      213: -528931262338135527
+    second: Retro Impact Effect E_210
+  - first:
+      213: -2482241151461847016
+    second: Retro Impact Effect E_211
+  - first:
+      213: 4555571423351408089
+    second: Retro Impact Effect E_212
+  - first:
+      213: -825071815059902804
+    second: Retro Impact Effect E_213
+  - first:
+      213: 343726574766461572
+    second: Retro Impact Effect E_214
+  - first:
+      213: -3883801951312209346
+    second: Retro Impact Effect E_215
+  - first:
+      213: 442246236057429707
+    second: Retro Impact Effect E_216
+  - first:
+      213: 1918879010259607626
+    second: Retro Impact Effect E_217
+  - first:
+      213: 54794331152474918
+    second: Retro Impact Effect E_218
+  - first:
+      213: 7225358116140368883
+    second: Retro Impact Effect E_219
+  - first:
+      213: 4944271543653250008
+    second: Retro Impact Effect E_220
+  - first:
+      213: -8351056975778903708
+    second: Retro Impact Effect E_221
+  - first:
+      213: -2121214423448922116
+    second: Retro Impact Effect E_222
+  - first:
+      213: -1828867985736954048
+    second: Retro Impact Effect E_223
+  - first:
+      213: -6201564824989350192
+    second: Retro Impact Effect E_224
+  - first:
+      213: 4743470172460629092
+    second: Retro Impact Effect E_225
+  - first:
+      213: 5740662307185072036
+    second: Retro Impact Effect E_226
+  - first:
+      213: -8653752603077614488
+    second: Retro Impact Effect E_227
+  - first:
+      213: 4595320838154584372
+    second: Retro Impact Effect E_228
+  - first:
+      213: 8472675800668161520
+    second: Retro Impact Effect E_229
+  - first:
+      213: 7397441005615538061
+    second: Retro Impact Effect E_230
+  - first:
+      213: 7787042957319194431
+    second: Retro Impact Effect E_231
+  - first:
+      213: -4506976484201655813
+    second: Retro Impact Effect E_232
+  - first:
+      213: -7017490340580445660
+    second: Retro Impact Effect E_233
+  - first:
+      213: 185155032344853044
+    second: Retro Impact Effect E_234
+  - first:
+      213: -2289751412180930808
+    second: Retro Impact Effect E_235
+  - first:
+      213: 1157421991414589372
+    second: Retro Impact Effect E_236
+  - first:
+      213: 7061899220033644515
+    second: Retro Impact Effect E_237
+  - first:
+      213: 2034524175013056504
+    second: Retro Impact Effect E_238
+  - first:
+      213: 2341097223074415557
+    second: Retro Impact Effect E_239
+  - first:
+      213: 8720061444321137863
+    second: Retro Impact Effect E_240
+  - first:
+      213: -1953457476936002578
+    second: Retro Impact Effect E_241
+  - first:
+      213: -5537899240229278674
+    second: Retro Impact Effect E_242
+  - first:
+      213: -3870503113444988869
+    second: Retro Impact Effect E_243
+  - first:
+      213: 3680666216135079669
+    second: Retro Impact Effect E_244
+  - first:
+      213: -4147442796906920350
+    second: Retro Impact Effect E_245
+  - first:
+      213: -3031381668038297993
+    second: Retro Impact Effect E_246
+  - first:
+      213: 4217497623348706797
+    second: Retro Impact Effect E_247
+  - first:
+      213: -1504818945425063448
+    second: Retro Impact Effect E_248
+  - first:
+      213: 6768866381670645320
+    second: Retro Impact Effect E_249
+  - first:
+      213: -3936350713709838678
+    second: Retro Impact Effect E_250
+  - first:
+      213: -228700742626303363
+    second: Retro Impact Effect E_251
+  - first:
+      213: -818143800588516395
+    second: Retro Impact Effect E_252
+  - first:
+      213: 8725102099548341403
+    second: Retro Impact Effect E_253
+  - first:
+      213: 9183979750004164594
+    second: Retro Impact Effect E_254
+  - first:
+      213: -3148022353902872391
+    second: Retro Impact Effect E_255
+  - first:
+      213: -8249266212493124675
+    second: Retro Impact Effect E_256
+  - first:
+      213: -5031418058989599366
+    second: Retro Impact Effect E_257
+  - first:
+      213: -353414716692881810
+    second: Retro Impact Effect E_258
+  - first:
+      213: -5708480807384076119
+    second: Retro Impact Effect E_259
+  - first:
+      213: -4881795205393009825
+    second: Retro Impact Effect E_260
+  - first:
+      213: -1099569326652332533
+    second: Retro Impact Effect E_261
+  - first:
+      213: 5131241618568820674
+    second: Retro Impact Effect E_262
+  - first:
+      213: -8388527976533418048
+    second: Retro Impact Effect E_263
+  - first:
+      213: -5113062594519205590
+    second: Retro Impact Effect E_264
+  - first:
+      213: -509377914037803309
+    second: Retro Impact Effect E_265
+  - first:
+      213: -5134905680084356586
+    second: Retro Impact Effect E_266
+  - first:
+      213: -2780481877225583649
+    second: Retro Impact Effect E_267
+  - first:
+      213: 8524292794442809130
+    second: Retro Impact Effect E_268
+  - first:
+      213: 1723021996552624500
+    second: Retro Impact Effect E_269
+  - first:
+      213: -2384466102599395015
+    second: Retro Impact Effect E_270
+  - first:
+      213: 8038112529648455190
+    second: Retro Impact Effect E_271
+  - first:
+      213: -2054094573379611886
+    second: Retro Impact Effect E_272
+  - first:
+      213: -4899204441686935362
+    second: Retro Impact Effect E_273
+  - first:
+      213: 6783257601781664349
+    second: Retro Impact Effect E_274
+  - first:
+      213: -6161213576826215971
+    second: Retro Impact Effect E_275
+  - first:
+      213: -8119365926251593141
+    second: Retro Impact Effect E_276
+  - first:
+      213: -5129228522867802293
+    second: Retro Impact Effect E_277
+  - first:
+      213: 7137645421201602605
+    second: Retro Impact Effect E_278
+  - first:
+      213: -8683548846973828456
+    second: Retro Impact Effect E_279
+  - first:
+      213: -4370133806677207596
+    second: Retro Impact Effect E_280
+  - first:
+      213: -5726112645117322237
+    second: Retro Impact Effect E_281
+  - first:
+      213: 1987132673388746389
+    second: Retro Impact Effect E_282
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Retro Impact Effect E_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1480
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979967275eb56f360800000000000000
+      internalID: 7203045695051700601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1481
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3ea9aa79d891fe0800000000000000
+      internalID: -1217786541685152837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1322
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53d3031802c9190800000000000000
+      internalID: -7954447102610950724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1437
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c9c20a08cc2c9e0800000000000000
+      internalID: -1602493664575316980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1428
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e777f85e346830a0800000000000000
+      internalID: -6901656210001922079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1430
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8ffd17c4d5fd830800000000000000
+      internalID: 4098096768839841986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1426
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442603a818dc60a0800000000000000
+      internalID: -6886892129830427575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1373
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10c9acda3ce96e40800000000000000
+      internalID: 5650306945067368477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1368
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659ca83f3828f9d60800000000000000
+      internalID: 7899175774669424982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1373
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf917d91dc432880800000000000000
+      internalID: -8636975197193134132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1300
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2af07a3a52724be0800000000000000
+      internalID: -1494506394480477652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1319
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2fc839072b2bf30800000000000000
+      internalID: 4589927166825525970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1323
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0a8193a1d34db10800000000000000
+      internalID: 2005294916923072717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1310
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eab12e219eb1f690800000000000000
+      internalID: -7570059967879595294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1320
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7656645eb8c8e5e90800000000000000
+      internalID: -7035031035431197337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1327
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ddc90bdfe73ca70800000000000000
+      internalID: 8846053721140682128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1313
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78dd1b41442faa00800000000000000
+      internalID: 769873924155365498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 904
+        width: 192
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93987bc7698c97350800000000000000
+      internalID: 6015059325993060665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1304
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021bdea31c8ed3c30800000000000000
+      internalID: 4340881532470014240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1312
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9a0204febab8c40800000000000000
+      internalID: 5515691212706720248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1297
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8f4aa2c368e61b0800000000000000
+      internalID: -5661440088586520331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1290
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f049afe028fabf60800000000000000
+      internalID: 8051020104221671666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1282
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd940b10942593e70800000000000000
+      internalID: 9095391395965848031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1288
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43595dd0d34942730800000000000000
+      internalID: 3973463761193637172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1304
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9406ccfef7b5cfa0800000000000000
+      internalID: -5781012240869751649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_25
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1293
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19afb8a940945dd0800000000000000
+      internalID: -2498213247245637349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1226
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0b05ff494243c00800000000000000
+      internalID: 879368049601327309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1297
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37c473ca2f6c4e90800000000000000
+      internalID: -7040129888028408006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1284
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9a105b588c410e0800000000000000
+      internalID: -2299993033086490157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1226
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265b73ac61c52c910800000000000000
+      internalID: 1856147249381750114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_30
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1289
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87cf62d6dbd90d90800000000000000
+      internalID: -7130926819264444533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1252
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a26ff33f04e1c50800000000000000
+      internalID: 6637814314285017759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1259
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b3cc169b5beffa0800000000000000
+      internalID: -5764970665173304490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1241
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b63234f244d86970800000000000000
+      internalID: 8748475660197050033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1235
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323fc3045ba384880800000000000000
+      internalID: -8626580536086957277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1233
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4f7dd2b08ffb0b0800000000000000
+      internalID: -5710573075585043235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1234
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed202d01513c2d6a0800000000000000
+      internalID: -6425859223060348194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1227
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c6da9a1369b5770800000000000000
+      internalID: 8600633053438372933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1109
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec80a91b5694f550800000000000000
+      internalID: 6193740705557417198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1115
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bd6c546eca68470800000000000000
+      internalID: 8396588660291984158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1097
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd3c511ddce3fe90800000000000000
+      internalID: -6992985362153062984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1132
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2000615958db040800000000000000
+      internalID: 4665031664391422694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1174
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaee7614f1f33de0800000000000000
+      internalID: -1354473032256656690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1125
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7523e32537de4770800000000000000
+      internalID: 8597045361932182909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1098
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1721c2821f4fc00800000000000000
+      internalID: 933636177612927486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_45
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1122
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49088f5ec25d0fc10800000000000000
+      internalID: 2085401016286085268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2b895a972dac1d0800000000000000
+      internalID: -3329617554575936794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_47
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1116
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d800d6e9515cc40800000000000000
+      internalID: 5531851487472291149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1174
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e273519141c3f30800000000000000
+      internalID: 4556539020954775145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_49
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce8a12dfaf33db80800000000000000
+      internalID: -8371277257974837568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1128
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d2f051123484030800000000000000
+      internalID: 3479104521510006050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1095
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dcceed4759f6840800000000000000
+      internalID: 5219554822334500200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1174
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1384f58310613b70800000000000000
+      internalID: 8876981977491997470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1093
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c19f14eb562b80800000000000000
+      internalID: -8419941417982246438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856bba07af7f34420800000000000000
+      internalID: 2613204863809205848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1096
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71ccd5884368a3c0800000000000000
+      internalID: -4348116277091581574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d452bc43c6841f30800000000000000
+      internalID: 4545406097287173336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1066
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b744c200ca0e1d0800000000000000
+      internalID: -3323467408256762992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_58
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1060
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1358e30554323b0800000000000000
+      internalID: -5538506905786961411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1060
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3224d4d8a7c72ae80800000000000000
+      internalID: -8168829908298153437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_60
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1066
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3391901dc5df43d0800000000000000
+      internalID: -3220120131823627461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_61
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1058
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483933eaa407f3f90800000000000000
+      internalID: -6971730232093731964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_62
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1074
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc5cee987feb3160800000000000000
+      internalID: 7006456946646342879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1070
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80ce0cdb84edb930800000000000000
+      internalID: 4160732920103747723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1070
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929bf10aa484aee60800000000000000
+      internalID: 7992279974073579817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_65
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1074
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238c500803f231a90800000000000000
+      internalID: -7344474681958348750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_66
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1058
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e438b85cea37af0800000000000000
+      internalID: -399783778433413576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_67
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1029
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660981ca594c82920800000000000000
+      internalID: 2965836501739933798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1050
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8104890082b1f3550800000000000000
+      internalID: 6142658275379265560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_69
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1052
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922f7bc80f265c060800000000000000
+      internalID: 6973088383345619497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_70
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1052
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79ad324dbfd265d0800000000000000
+      internalID: -3070645991960106628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_71
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1050
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01efae528312fb210800000000000000
+      internalID: 1350834938272480784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_72
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1061
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3871ad0bbfc63e790800000000000000
+      internalID: -7502032726009440381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1061
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdca5ad8ecf02c980800000000000000
+      internalID: -8520230165217432357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1031
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda8c52509585e50800000000000000
+      internalID: 6798281516159380975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1030
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd50746871cd9d20800000000000000
+      internalID: 3286996025875652080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1030
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15929998564081a20800000000000000
+      internalID: 3033179183180753233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_77
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1042
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef176cde0a0dc820800000000000000
+      internalID: 2940017190686367712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_78
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1042
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05a9ae6749ce21d0800000000000000
+      internalID: -3373537762217450227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_79
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1026
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3629e2b7ee52a51a0800000000000000
+      internalID: -6820096979500101021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1026
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1949b8b2b54718210800000000000000
+      internalID: 1333474899599791249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_81
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1029
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d80355771fe50e0800000000000000
+      internalID: -2279118866570244780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_82
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 996
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c4e2f3417f06540800000000000000
+      internalID: 4999267252712655915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_83
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1024
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6086b887920c0d100800000000000000
+      internalID: 130815673542338566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_84
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 966
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91744935946ee530800000000000000
+      internalID: 3886154120541008287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_85
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 984
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7e80c246569b580800000000000000
+      internalID: -8810899715063748683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_86
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 997
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aa97cb03cb10750800000000000000
+      internalID: 6269499073782983168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 985
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f6431a99cd0b9c0800000000000000
+      internalID: -3913385523792285838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_88
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 996
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9147e49fd222bbf0800000000000000
+      internalID: -310147080663907942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_89
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 999
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66f553a17e516d00800000000000000
+      internalID: 964155637398632043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 966
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c24678b4b963be20800000000000000
+      internalID: 3365149571485680324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_91
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 979
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6b74da905552a80800000000000000
+      internalID: -8492288022286977335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_92
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 982
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9776bca119fd55920800000000000000
+      internalID: 2978532542888241017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_93
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 914
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d73ecabcc783900800000000000000
+      internalID: 664418159257943435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_94
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 912
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654205c34d8b4dc40800000000000000
+      internalID: 5536253063629644886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_95
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 929
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0823aa98d40ccd520800000000000000
+      internalID: 2728266913534325376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 928
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b6e9c94ab53ef30800000000000000
+      internalID: 4603624006663170887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_97
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 937
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95d0a9aaea882f30800000000000000
+      internalID: 4551040163930756507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_98
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 937
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98521a7527ad2a70800000000000000
+      internalID: 8803876625982838941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_99
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 921
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e39094189274220800000000000000
+      internalID: 2469988555888868971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_100
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 917
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56c89d7118f507f0800000000000000
+      internalID: -646838217452501414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_101
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 923
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fa7c3a123427a50800000000000000
+      internalID: 6517345422519283535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_102
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 909
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460d969d129339c50800000000000000
+      internalID: 6670738290610131044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_103
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 909
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b41fef8472fe8600800000000000000
+      internalID: 472581593365419193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 916
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc69769114151960800000000000000
+      internalID: 7571980414264896754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_105
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 845
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51b55984b3a5c180800000000000000
+      internalID: -9095683876611313314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_106
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 843
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4731453ff8f8d150800000000000000
+      internalID: 5897737487035479882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_107
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 772
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74db0e1f667fa87b0800000000000000
+      internalID: -5221088796465906361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_108
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 868
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3982aeaf51b224630800000000000000
+      internalID: 3909734799914969235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 879
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330b6687b7a7a7bc0800000000000000
+      internalID: -3784577866131918797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_110
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 845
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b9b58c5535b6e90800000000000000
+      internalID: -7031434765310125235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_111
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 871
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd19defd7de543d0800000000000000
+      internalID: -3222908832911385166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_112
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 880
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957b532cf59a4aeb0800000000000000
+      internalID: -4709453081577408679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_113
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 839
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ac17c7d518296c0800000000000000
+      internalID: -4138102869080290731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 852
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d612733d61a725aa0800000000000000
+      internalID: -6173737900720053907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_115
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 842
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f4f6249ed70cb00800000000000000
+      internalID: 846815170741096304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_116
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 855
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec56c9e808294a8f0800000000000000
+      internalID: -530137775276792370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_117
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 768
+        width: 33
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c09d21ebb85d160800000000000000
+      internalID: 7049694440194640988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_118
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 740
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeba7c12660e4bb0800000000000000
+      internalID: -4950011921979228444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_119
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 611
+        width: 126
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2b8e668f9d50020800000000000000
+      internalID: 2307490044998890211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_120
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 844
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d54c341844b64de0800000000000000
+      internalID: -1349192816680745513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_121
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 796
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048728054d3727db0800000000000000
+      internalID: -4795643297475168192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_122
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 807
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7723b2a18ce1aa530800000000000000
+      internalID: 3866937074832323191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_123
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 804
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7cf8613ea4eef50800000000000000
+      internalID: 6912544817256843252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_124
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 817
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94329ced8e4b193e0800000000000000
+      internalID: -2048657443213728951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_125
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 804
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d369099974fd850800000000000000
+      internalID: 6403915920025468162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_126
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 807
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a4882ae9f6be060800000000000000
+      internalID: 6983798374290442797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_127
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 809
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3d255bade480aa0800000000000000
+      internalID: -6194614586196175946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_128
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 790
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81613b8706c3d0210800000000000000
+      internalID: 1300762252419470872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_129
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 774
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85976a2f713f27f70800000000000000
+      internalID: 9183669874342656344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_130
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 796
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9456add0f86dc5330800000000000000
+      internalID: 3701068903692789065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_131
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 779
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84fcd29c0b9f4090800000000000000
+      internalID: -8048043530781920117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_132
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 800
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121db8028b11896e0800000000000000
+      internalID: -1830693766008418015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_133
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 789
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a4652ff28458d10800000000000000
+      internalID: 2127185769768831598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_134
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 772
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343cfd4b0ba4a8470800000000000000
+      internalID: 8397606577994974019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 786
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7917e19bfc72a50800000000000000
+      internalID: 6496389381491890116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_136
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 775
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfab5444692d3e2d0800000000000000
+      internalID: -3250522963199018245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_137
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 772
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcf181903a110470800000000000000
+      internalID: 8358991179278318815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_138
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 773
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6172f98c86615ce50800000000000000
+      internalID: 6828889049275508502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_139
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 770
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005cf807bd16cffe0800000000000000
+      internalID: -1153939809399487232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_140
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 728
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c915463fa0bd73650800000000000000
+      internalID: 6212675051060482460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_141
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 742
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91abf5499caa14a40800000000000000
+      internalID: 5350745615047309849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_142
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 718
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f5ab0dd2f613380800000000000000
+      internalID: -8993284738316083403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_143
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 729
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efbb38505e75a920800000000000000
+      internalID: 3000943610255097827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_144
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 744
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49268e42743318680800000000000000
+      internalID: -8754659819976629612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_145
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 735
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ce215aaa59a2130800000000000000
+      internalID: 3542808617026776163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_146
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 718
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cbd913490b972f0800000000000000
+      internalID: -974553693814932340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_147
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 729
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60a40e708e053b20800000000000000
+      internalID: 3113410662429401195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_148
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 739
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e26eff612ce72e0800000000000000
+      internalID: -2126048570033951097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_149
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 733
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5148212062ddb0ee0800000000000000
+      internalID: -1293697312625621995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_150
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 720
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb721d06ac0a3b620800000000000000
+      internalID: 2788749385340626875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_151
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 719
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba30fd3f208152d60800000000000000
+      internalID: 7864718725232919467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_152
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 720
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c606d8fdf3bb7f220800000000000000
+      internalID: 2519688399545000044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_153
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 721
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699aeb55d97ec6ed0800000000000000
+      internalID: -2419304236870358634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_154
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 664
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3c6b7584f2f9b10800000000000000
+      internalID: 1990361548076794872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_155
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 659
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e46feda9439ba730800000000000000
+      internalID: 4011461837763601637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_156
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 651
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5c20d3713563540800000000000000
+      internalID: 4987264996632348073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_157
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 663
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abff9ebf6910b55a0800000000000000
+      internalID: -6531625086587633734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_158
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 673
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a77f5ed7973e6e0800000000000000
+      internalID: -1809469043636733435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_159
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 675
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cad89021296480f0800000000000000
+      internalID: -1115651216679314743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_160
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 680
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d6c99eabb90aea0800000000000000
+      internalID: -5863515487750820529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_161
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 648
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61a0fc76863a8de0800000000000000
+      internalID: -1330190788684897942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_162
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 645
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c222e23386e0fa20800000000000000
+      internalID: 3094226395172315848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_163
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 676
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4e055e139c19620800000000000000
+      internalID: 2779223661202171110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_164
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 582
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9718576debb6e45d0800000000000000
+      internalID: -3076403028061486727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_165
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 613
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdce6e1cd56519c00800000000000000
+      internalID: 905599960763264223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_166
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 622
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfabc32ed671f4c0800000000000000
+      internalID: -4255489476433039427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_167
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 623
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627fac90fadf24a70800000000000000
+      internalID: 8809882749315512102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_168
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 628
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0c5247c83d40e30800000000000000
+      internalID: 4468929330455888116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac85a7b772cac6610800000000000000
+      internalID: 1615855651894483146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec6de3ba20955e80800000000000000
+      internalID: -8190481834221671192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_171
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 528
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c602a3cda6127e0800000000000000
+      internalID: -1792033682616193893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_172
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 413
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df455ed90c79503d0800000000000000
+      internalID: -3241017503284636419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_173
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 467
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598da271a8ae42030800000000000000
+      internalID: 3469155491797194901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_174
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee288b07fe1e81940800000000000000
+      internalID: 5267208182714368750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_175
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 599
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6184a65a90b8dde90800000000000000
+      internalID: -6999285372317710314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_176
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a8c8d058b722160800000000000000
+      internalID: 6999292582275353100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_177
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 340
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af23b0e959994b000800000000000000
+      internalID: 50834363688628986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_178
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 217
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85840acd347159d10800000000000000
+      internalID: 2131635578861537368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_179
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 152
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4389f45830b092db0800000000000000
+      internalID: -4816306216746641356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_180
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd452373c5e8080800000000000000
+      internalID: -9183301198024482871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_181
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 527
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa13f2934eec5e300800000000000000
+      internalID: 280858031387783599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_182
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 455
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b563ce92d329a60800000000000000
+      internalID: 7679267564886055819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_183
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 410
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127b09f70f1de38f0800000000000000
+      internalID: -558778472884816095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_184
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 86
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4adbffb52da28a0800000000000000
+      internalID: -6329015033741335377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_185
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 592
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4853c8b9d138ac950800000000000000
+      internalID: 6470127977858086276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_186
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75afd6c99492d1160800000000000000
+      internalID: 6997794792137423447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 339
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3640c89da0d4b4630800000000000000
+      internalID: 3912305410296251491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_188
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54fa0048ecdde590800000000000000
+      internalID: -7643210102512880549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_189
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 216
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409023cb9799e9350800000000000000
+      internalID: 6025422099595790596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_190
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 456
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42910be0a0c2366d0800000000000000
+      internalID: -2998504505190901468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_191
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 408
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22861b9f601421660800000000000000
+      internalID: 7355012639664203810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_192
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 525
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0096833cb8c1325e0800000000000000
+      internalID: -1935672028237895424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_193
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 264
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe051765e92af46e0800000000000000
+      internalID: -1851082120887185169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_194
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 484
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dda2b00dc12bf4b0800000000000000
+      internalID: -5405689763364426288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_195
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 83
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc983f5dfe944c40800000000000000
+      internalID: 5495692256360307929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_196
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 168
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8db63879c95c5a0800000000000000
+      internalID: -6501618312480565041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_197
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a22ef98c8cbbe30800000000000000
+      internalID: 4520427414997838466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_198
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 332
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6876172b42b12f090800000000000000
+      internalID: -8002303743457400954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_199
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 149
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee045761e1989e240800000000000000
+      internalID: 4821535638395633902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_200
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 83
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b87c53f148a59b0800000000000000
+      internalID: -5090611159207802027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_201
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 477
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e32e798dc0e66e0800000000000000
+      internalID: -1842521073147298287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_202
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 450
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4064f1af89c615e0800000000000000
+      internalID: -1939140970801766322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_203
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 144
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bae027601f28dc20800000000000000
+      internalID: 3231384480134523568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_204
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 87
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f440fd82fc9f96f20800000000000000
+      internalID: 3416536460476482639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_205
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 468
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86469342fbcfe0d0800000000000000
+      internalID: -3391267753010248052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_206
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 486
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf8a436a38384e80800000000000000
+      internalID: -8194237698575527971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_207
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 453
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01c0e2ed4f980740800000000000000
+      internalID: 5118516133374247181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_208
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 581
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b4e5c04b7d9420800000000000000
+      internalID: 2638400474837201260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_209
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 408
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97f64b20b714c710800000000000000
+      internalID: 1712519803715385244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_210
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 260
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a8cbdb1dbd8a8f0800000000000000
+      internalID: -528931262338135527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_211
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 11
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810924003de4d8dd0800000000000000
+      internalID: -2482241151461847016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_212
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 343
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d508c5b214a83f30800000000000000
+      internalID: 4555571423351408089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_213
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 336
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeea2d3e81cc84f0800000000000000
+      internalID: -825071815059902804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_214
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 19
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48211d4af7925c400800000000000000
+      internalID: 343726574766461572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_215
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 352
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a111ad3b6f91ac0800000000000000
+      internalID: -3883801951312209346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_216
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 523
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6e47bcb9c232600800000000000000
+      internalID: 442246236057429707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_217
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 485
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a402a7d0b4a31aa10800000000000000
+      internalID: 1918879010259607626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_218
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 84
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6236c04672ba2c000800000000000000
+      internalID: 54794331152474918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_219
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3488fcce0a54460800000000000000
+      internalID: 7225358116140368883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_220
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 547
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d33688e5c49d9440800000000000000
+      internalID: 4944271543653250008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_221
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 356
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46986a32de51b1c80800000000000000
+      internalID: -8351056975778903708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_222
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 331
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf754e578beef82e0800000000000000
+      internalID: -2121214423448922116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_223
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f8019b14e8e96e0800000000000000
+      internalID: -1828867985736954048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_224
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 268
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6c3f226ad9fe9a0800000000000000
+      internalID: -6201564824989350192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_225
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 547
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c3d286df034d140800000000000000
+      internalID: 4743470172460629092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_226
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 214
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a79d3bf3fdeaaf40800000000000000
+      internalID: 5740662307185072036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_227
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 268
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86462776bd1b7e780800000000000000
+      internalID: -8653752603077614488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_228
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 332
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431872b84fbd5cf30800000000000000
+      internalID: 4595320838154584372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_229
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 142
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5cfd320cdf49570800000000000000
+      internalID: 8472675800668161520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_230
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 552
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f5f9ab66df8a660800000000000000
+      internalID: 7397441005615538061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_231
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 541
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37c7b9ef42211c60800000000000000
+      internalID: 7787042957319194431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_232
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 447
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf11f1044c00471c0800000000000000
+      internalID: -4506976484201655813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_233
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 288
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b7fa27bddc9e90800000000000000
+      internalID: -7017490340580445660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_234
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 166
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a7a4b558dc19200800000000000000
+      internalID: 185155032344853044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_235
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 268
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa105e83b2930e0800000000000000
+      internalID: -2289751412180930808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_236
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 529
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7ed7d3b2dff0010800000000000000
+      internalID: 1157421991414589372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_237
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 356
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7a6b1dce7e00260800000000000000
+      internalID: 7061899220033644515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_238
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 330
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff099235f41c3c10800000000000000
+      internalID: 2034524175013056504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_239
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 408
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3010e458f3d7020800000000000000
+      internalID: 2341097223074415557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_240
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 549
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c45758cea1e30970800000000000000
+      internalID: 8720061444321137863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_241
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 11
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3166b46cce3e4e0800000000000000
+      internalID: -1953457476936002578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_242
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 19
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c6a386bfd6523b0800000000000000
+      internalID: -5537899240229278674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_243
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 330
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b386115dce5394ac0800000000000000
+      internalID: -3870503113444988869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_244
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 534
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6338d2c6a541330800000000000000
+      internalID: 3680666216135079669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_245
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 333
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2664c1410c25176c0800000000000000
+      internalID: -4147442796906920350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_246
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 588
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77632f11f6e5ee5d0800000000000000
+      internalID: -3031381668038297993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_247
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedf0c04ebf878a30800000000000000
+      internalID: 4217497623348706797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_248
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 416
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e149aa542fcd1be0800000000000000
+      internalID: -1504818945425063448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_249
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 408
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eff837c18dfed50800000000000000
+      internalID: 6768866381670645320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_250
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 356
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae38fda1e54f59c0800000000000000
+      internalID: -3936350713709838678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_251
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 75
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7224e3e2ed73dcf0800000000000000
+      internalID: -228700742626303363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_252
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 447
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3cbbe4c8e55a4f0800000000000000
+      internalID: -818143800588516395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_253
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 36
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b940898c12ac51970800000000000000
+      internalID: 8725102099548341403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_254
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 360
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7016f7cec047f70800000000000000
+      internalID: 9183979750004164594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_255
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 525
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b851aa195aff44d0800000000000000
+      internalID: -3148022353902872391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_256
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 267
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb17b21618b48d80800000000000000
+      internalID: -8249266212493124675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_257
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 267
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a758075deefcc2ab0800000000000000
+      internalID: -5031418058989599366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_258
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 26
+        width: 234
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e1029003b681bf0800000000000000
+      internalID: -353414716692881810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_259
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 141
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0bcb453f667c0b0800000000000000
+      internalID: -5708480807384076119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_260
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 291
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5338542021604cb0800000000000000
+      internalID: -4881795205393009825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_261
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 281
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06e8fee58b8db0f0800000000000000
+      internalID: -1099569326652332533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_262
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 268
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7be7bc015d53740800000000000000
+      internalID: 5131241618568820674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_263
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 14
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf9c4aef36f59b80800000000000000
+      internalID: -8388527976533418048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_264
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 36
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29785319a0ca09b0800000000000000
+      internalID: -5113062594519205590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_265
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 603
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6e8596c735ee8f0800000000000000
+      internalID: -509377914037803309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_266
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 408
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612bf676d762db8b0800000000000000
+      internalID: -5134905680084356586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_267
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 577
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbce8bd67eb969d0800000000000000
+      internalID: -2780481877225583649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_268
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 416
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f7f26022f5c4670800000000000000
+      internalID: 8524292794442809130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_269
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 416
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47914bc706769e710800000000000000
+      internalID: 1723021996552624500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_270
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 408
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9395a9f86bca8eed0800000000000000
+      internalID: -2384466102599395015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_271
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e005a02cc1d8f60800000000000000
+      internalID: 8038112529648455190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_272
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 41
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21396aa5ed36e73e0800000000000000
+      internalID: -2054094573379611886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_273
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 116
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8fb337487820cb0800000000000000
+      internalID: -4899204441686935362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_274
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 525
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a0a2e79d8f22e50800000000000000
+      internalID: 6783257601781664349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_275
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 267
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1a5f735e8fe7aa0800000000000000
+      internalID: -6161213576826215971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_276
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 41
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b420d5455b7325f80800000000000000
+      internalID: -8119365926251593141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_277
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 523
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fb9a295d151d8b0800000000000000
+      internalID: -5129228522867802293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_278
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 267
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d283a6791b20e0360800000000000000
+      internalID: 7137645421201602605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_279
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 416
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8924f52c456dd7780800000000000000
+      internalID: -8683548846973828456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_280
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 408
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d55410f47a2a53c0800000000000000
+      internalID: -4370133806677207596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_281
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 148
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cd8e333e2c880b0800000000000000
+      internalID: -5726112645117322237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect E_282
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59698ee53a6b39b10800000000000000
+      internalID: 1987132673388746389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
