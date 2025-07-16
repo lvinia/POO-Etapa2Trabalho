@@ -16,10 +16,15 @@ public class CRT_FX : MonoBehaviour
     
     void Update()
     {
-        if (_toggle.isOn)
+        if (_toggle.isOn == true)
         {
-            _toggle = GetComponent<Toggle>();
-            
+            _text.text = "Ligado";
+            _text.color = Color.green;
+        }
+        else
+        {
+            _text.text = "Desligado";
+            _text.color = Color.red;
         }
     }
 }
