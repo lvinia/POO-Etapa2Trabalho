@@ -6,6 +6,8 @@ public class Personagem : MonoBehaviour
     private int vidas;
     [SerializeField]
     private int energia;
+    [SerializeField]
+    private float velocidade;
 
 
     public int getVidas()
@@ -26,6 +28,16 @@ public class Personagem : MonoBehaviour
     public void setEnergia(int energia)
     {
         this.energia = energia;
+    }
+
+    public float getVelocidade()
+    {
+        return this.velocidade;
+    }
+
+    public void setVelocidade(float velocidade)
+    {
+        this.velocidade = velocidade;
     }
     
 }

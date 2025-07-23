@@ -23,13 +23,15 @@ public class BarraDeVida : MonoBehaviour
             //jogador = GameObject.Find("Jogador").GetComponent<Jogador>();
             jogador = GameObject.FindWithTag("Player").GetComponent<Jogador>();
         }
-        
-        slider_vidasRestantes.minValue = 0;
-        slider_vidasRestantes.maxValue = jogador.getVidas();
-        
-        slider_EnergiaRestante.minValue = 0;
-        slider_EnergiaRestante.maxValue = jogador.getEnergia();
 
+        if (jogador != null)
+        {
+            slider_vidasRestantes.minValue = 0;
+            slider_vidasRestantes.maxValue = jogador.getVidas();
+
+            slider_EnergiaRestante.minValue = 0;
+            slider_EnergiaRestante.maxValue = jogador.getEnergia();
+        }
         // vidasRestantes = jogador.getVidas();
         // energiaRestante = jogador.getEnergia();
     }
