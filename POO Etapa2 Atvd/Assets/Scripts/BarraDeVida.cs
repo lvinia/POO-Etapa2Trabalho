@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class BarraDeVida : MonoBehaviour
 {
     
-    public Jogador jogador;
+    public Personagem personagem;
     [SerializeField]
     private int vidasRestantes = 0;
     [SerializeField]
@@ -18,19 +18,19 @@ public class BarraDeVida : MonoBehaviour
     {
         
         // buscar jogador na cena:
-        if (jogador == null)
+        if (personagem == null)
         {
             //jogador = GameObject.Find("Jogador").GetComponent<Jogador>();
-            jogador = GameObject.FindWithTag("Player").GetComponent<Jogador>();
+            personagem = GameObject.FindWithTag("Player").GetComponent<Jogador>();
         }
 
-        if (jogador != null)
+        if (personagem != null)
         {
             slider_vidasRestantes.minValue = 0;
-            slider_vidasRestantes.maxValue = jogador.getVidas();
+            slider_vidasRestantes.maxValue = personagem.getVidas();
 
             slider_EnergiaRestante.minValue = 0;
-            slider_EnergiaRestante.maxValue = jogador.getEnergia();
+            slider_EnergiaRestante.maxValue = personagem.getEnergia();
         }
         // vidasRestantes = jogador.getVidas();
         // energiaRestante = jogador.getEnergia();
@@ -39,10 +39,19 @@ public class BarraDeVida : MonoBehaviour
     
     void Update()
     {
-        vidasRestantes = jogador.getVidas();
-        slider_vidasRestantes.value = vidasRestantes;
+        if (slider_vidasRestantes != null)
+        {
+            vidasRestantes = personagem.getVidas();
+            slider_vidasRestantes.value = vidasRestantes;
+        }
+
+        if (slider_EnergiaRestante != null)
+        {
+            energiaRestante = personagem.getEnergia();
+            slider_EnergiaRestante.value = energiaRestante;
+        }
         
-        energiaRestante = jogador.getEnergia();
-        slider_EnergiaRestante.value = energiaRestante;
+        
+        
     }
 }
